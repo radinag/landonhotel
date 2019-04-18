@@ -1,0 +1,125 @@
+@charset"UTF-8";
+ /* CSS Document */
+
+body {
+    width: 100%;
+    background-image: url("table-setting_485913447.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+    background-color:#FFFFFF;
+    margin: 0px;
+ }
+
+.city-header {
+     width: 960px;
+     float: right;
+     margin-left: 18em;
+     margin-bottom: -0.2em;
+}
+
+.banner {
+     width: 960px;
+     float: right;
+     margin-left: 18em;
+     margin-bottom: -0.2em;
+}
+
+.container {
+    width: 960px;
+    margin-left: 18em;
+    background-color: #ffffff;
+    margin-top: 3em;   
+}
+
+.nav {
+       width: 960px;
+    	text-align: center;
+ }
+
+ .nav ul li {
+     display: inline;
+ }
+
+ .nav a {
+      color: #602E8B;
+      text-decoration: none;
+      padding: 25px;
+ }
+
+ .nav a:hover {
+      text-decoration: underline;
+ }
+.info {
+    margin-left: 50px;
+    margin-bottom: 30px;    
+}
+
+ h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    color:#602E8B;
+    font-size: 2em;
+    margin-top: 30px;
+    margin-left: 40px;
+    
+}
+
+.list img {
+    float: right;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+  
+}
+
+list {
+    padding: 10px 0px 0px 10px; 
+}
+
+.list ul li {
+    color: #c2c5d6;
+    margin-left: 30px;
+}
+
+.list p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    margin-left: 40px;
+} 
+
+.list a  {
+      color: #602E8B;
+      text-decoration: none;
+      padding: 5px;
+ }
+
+ .list a:hover {
+      text-decoration: underline;
+ }
+
+.info h4 {
+  font-family: Helvetica, Arial, sans-serif;
+   font-size: 12px;
+   margin-bottom: -0.1em; 
+}
+
+.info p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8em;
+}
+button {
+    background: #ffffff;
+    border-radius: 5px;
+}
+
+footer {
+    width: 956px;
+    height: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    background-color: #602e8b;
+    color: #ffffff;
+    padding-left: 5px; 
+}
